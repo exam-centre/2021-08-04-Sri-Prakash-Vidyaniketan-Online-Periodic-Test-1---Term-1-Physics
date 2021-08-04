@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<presentation availableOffline="1" guid="BA7ECFE4-005D-41CA-A838-DAED0661E5D8" version="0">
+<presentation availableOffline="1" guid="E3B7EA78-26EC-4985-8CED-C9E79879BB87" version="0">
 	<info>
 		<title>2021-08-04 Sri Prakash Vidyaniketan Online Periodic Test 1 - Term-1 Physics</title>
 		<description/>
 	</info>
-	<files index="id29" thumbnail="id25" totalSize="2839237">
+	<files index="id102" thumbnail="id98" totalSize="3468170">
 		<file id="id0">data/apple-touch-icon.png</file>
 		<file id="id1">data/browsersupport.js</file>
 		<file id="id2">data/favicon.ico</file>
@@ -15,28 +15,101 @@
 		<file id="id7">data/fonts/fnt4.woff</file>
 		<file id="id8">data/html5-unsupported.html</file>
 		<file id="id9">data/html5.png</file>
-		<file id="id10">data/images/img-0839a862af08a8fc9c56e8e953b60e8a90e9f8cd.jpg</file>
-		<file id="id11">data/images/img-191928c4bc4bf2e525ed99ad11c3cf9b9db8f6e9.PNG</file>
-		<file id="id12">data/images/img-2516e957b76fc75d51620f587097b2658b9ec0f9.jpg</file>
-		<file id="id13">data/images/img-2fa241c735c8675ae1c132f67c910d1ecbf621ee.jpg</file>
-		<file id="id14">data/images/img-321b6647611539a9b9623cb63eb564f306634ae6.jpg</file>
-		<file id="id15">data/images/img-3877e1c8d9a933b1ea1b271f94cc303f1c50ec23.jpg</file>
-		<file id="id16">data/images/img-3bf8c9d720674669d6a29f30efaf9af2b7103f66.jpg</file>
-		<file id="id17">data/images/img-5f2202c49bfbc2aea4ff3944bc3307d692f11c0b.jpg</file>
-		<file id="id18">data/images/img-7efdbaab045cafe0a9c7436953d6c74711d4b462.PNG</file>
-		<file id="id19">data/images/img-a43ee8349384d219bac7272c864382194aa0b68d.jpg</file>
-		<file id="id20">data/images/img-dc5b01377c5df68778fafd45c148e96f531d0a25.jpg</file>
-		<file id="id21">data/images/img-ec553a4624262a74e3723ecb97cb8e0c3e9ff782.jpg</file>
-		<file id="id22">data/images/img-f6cd5ec8d2a89765c12ec7a3364af5d9799fdf6c.jpg</file>
-		<file id="id23">data/ismplayer/app_store2x.png</file>
-		<file id="id24">data/ismplayer/play.svg</file>
-		<file id="id25">data/ismplayer/preview.png</file>
-		<file id="id26">data/ismplayer/style.css</file>
-		<file id="id27">data/ismplayer/style_mini.css</file>
-		<file id="id28">data/player.js</file>
-		<file id="id29">index.html</file>
-		<file id="id30">ismplayer.html</file>
-		<file id="id31">preview.png</file>
+		<file id="id10">data/images/img-0690e8b46b8b12769927dfb336b23466182d8d35.jpg</file>
+		<file id="id11">data/images/img-0823b44ab87019fb7a8506a08687f04b4db0adf7.jpg</file>
+		<file id="id12">data/images/img-0839a862af08a8fc9c56e8e953b60e8a90e9f8cd.jpg</file>
+		<file id="id13">data/images/img-08c5bde2ee540483634fc6a3f2f71622491486bf.jpg</file>
+		<file id="id14">data/images/img-0b24aabd95dcbdc1467d771507ee87117c52f2fa.jpg</file>
+		<file id="id15">data/images/img-0b7636988fc07eb620ebd799c3b2f79ccf97cad4.jpg</file>
+		<file id="id16">data/images/img-10b3e2a80024f93e6fcf77cc1c4bc9fa5799ad1a.jpg</file>
+		<file id="id17">data/images/img-130e99889ba3fe7b949af7d31ce2d96b145f1318.jpg</file>
+		<file id="id18">data/images/img-146aa77245ea974e2cdc0c52335196921348ac4b.png</file>
+		<file id="id19">data/images/img-15594af2832726caed038f7f32fd137d01927dc4.jpg</file>
+		<file id="id20">data/images/img-16aa17c13cd47136e0274f56b4d0a0dd92d99ada.jpg</file>
+		<file id="id21">data/images/img-16be2cc3f76311a3572f15165318dd3177ab1979.jpg</file>
+		<file id="id22">data/images/img-183f4deeff169329c86333ae2ebd25208f6941ee.jpg</file>
+		<file id="id23">data/images/img-191928c4bc4bf2e525ed99ad11c3cf9b9db8f6e9.PNG</file>
+		<file id="id24">data/images/img-195298ff20a8f9b19794b3453305cf906a2c6b9d.jpg</file>
+		<file id="id25">data/images/img-1c501a1afcc4362e227ebb87e0ce014fae14fa70.jpg</file>
+		<file id="id26">data/images/img-1f54398da6cb4f481fea567ff741a0fbc1e11094.jpg</file>
+		<file id="id27">data/images/img-22642e7cb3801651e0cda0cfa16374927daf8342.jpg</file>
+		<file id="id28">data/images/img-22fec9d48360a8bec2bade91de27bd5d73a8886c.jpg</file>
+		<file id="id29">data/images/img-2516e957b76fc75d51620f587097b2658b9ec0f9.jpg</file>
+		<file id="id30">data/images/img-252bd7b63bcb314328363e14d3c4db954dddd58a.jpg</file>
+		<file id="id31">data/images/img-2b98cecb365b373d1a96e745a39de5ee735a3f3a.jpg</file>
+		<file id="id32">data/images/img-2e17287a4e366ef89018a275a81137de206a2adc.jpg</file>
+		<file id="id33">data/images/img-2f55b03e04c3f9c0feb8912100cde56e30617420.jpg</file>
+		<file id="id34">data/images/img-2fa241c735c8675ae1c132f67c910d1ecbf621ee.jpg</file>
+		<file id="id35">data/images/img-314c291a28a85432d31aada866f6b0a45afa2829.png</file>
+		<file id="id36">data/images/img-321b6647611539a9b9623cb63eb564f306634ae6.jpg</file>
+		<file id="id37">data/images/img-3795e9ce7cdbb58c50d5a8820cc72e441462c883.jpg</file>
+		<file id="id38">data/images/img-3877e1c8d9a933b1ea1b271f94cc303f1c50ec23.jpg</file>
+		<file id="id39">data/images/img-3b24045a9bf4693ab69ab2bba3c154c08c568cdb.jpg</file>
+		<file id="id40">data/images/img-3bf8c9d720674669d6a29f30efaf9af2b7103f66.jpg</file>
+		<file id="id41">data/images/img-3c8a28c853a71b705f7837b89652dc0eb575f03e.jpg</file>
+		<file id="id42">data/images/img-413903bba8b6af1989e89239040c0eca4ebfdac6.jpg</file>
+		<file id="id43">data/images/img-48d496f7cb279b1c4ce33132689bab00e099d2ee.jpg</file>
+		<file id="id44">data/images/img-498fae51f03b4c9d45f917de8aa07018a661e1fe.jpg</file>
+		<file id="id45">data/images/img-4bbc805346273b8b909af63ba3c5a9a5c9ded501.jpg</file>
+		<file id="id46">data/images/img-4ced06a0fa7aad370e7993ef40d9fbd799c0e1f9.jpg</file>
+		<file id="id47">data/images/img-50aed76e461bb5a7f4eb9788ad0d110876b3a25c.jpg</file>
+		<file id="id48">data/images/img-50e61d929e5c5922090e6886931500c0aa627191.jpg</file>
+		<file id="id49">data/images/img-5517fd644067421dd5a42f936e6fbd3fa532d07e.jpg</file>
+		<file id="id50">data/images/img-5c655b3e69c0215bab2e75ad775a3e1e4c25764c.jpg</file>
+		<file id="id51">data/images/img-5e33d8be95add4d40693a324928c5745bc7732f4.jpg</file>
+		<file id="id52">data/images/img-5f2202c49bfbc2aea4ff3944bc3307d692f11c0b.jpg</file>
+		<file id="id53">data/images/img-669bd1be2168898c1e32685ff524d9d38acbf3a4.jpg</file>
+		<file id="id54">data/images/img-6816e069623149a4634ddca73768072c8a9d4150.jpg</file>
+		<file id="id55">data/images/img-6a74d69e2f59e8857e4d3a89b5fddd8df89b615b.jpg</file>
+		<file id="id56">data/images/img-6afbe6638c43c2e3231eff55765ed23dc7e2a6f7.jpg</file>
+		<file id="id57">data/images/img-6f6f1f4c059785a01d412cac6a31df866baabc7d.jpg</file>
+		<file id="id58">data/images/img-71060afc4056aa5a65354075947579606eaa3ca3.jpg</file>
+		<file id="id59">data/images/img-7216d6a003590cbae0235f4c7378d106a990eaec.jpg</file>
+		<file id="id60">data/images/img-7ec38a6be070bb53c59ec0de0f587143f9d2b564.jpg</file>
+		<file id="id61">data/images/img-7efdbaab045cafe0a9c7436953d6c74711d4b462.PNG</file>
+		<file id="id62">data/images/img-7f2a593d721405d00cc7348c888324e3eed0c788.png</file>
+		<file id="id63">data/images/img-80542d05baf55724fbb5d28451c42e6c3da370ca.jpg</file>
+		<file id="id64">data/images/img-83a77c8498d01fd4bb13f87338c4a1fc322b7d8f.jpg</file>
+		<file id="id65">data/images/img-876d7283b94751eec37791f9ec9f20d40a47f771.jpg</file>
+		<file id="id66">data/images/img-8b5ba53e108c1625c2e27c22d1829d669e708043.jpg</file>
+		<file id="id67">data/images/img-96bd517d4523820738846f6d56f5efeb5dc33ea4.jpg</file>
+		<file id="id68">data/images/img-99888523ca80766a9bd762d51e9e3f89e77ebf8f.jpg</file>
+		<file id="id69">data/images/img-9a2f0d71e13d83cc6de8ee6d99cc71cd9bf515ca.jpg</file>
+		<file id="id70">data/images/img-9e7038a75de606ec0e7decd95a74c26f3eab2919.jpg</file>
+		<file id="id71">data/images/img-a3a8ff98c5a03b9cfd2653a08d35a5924c7e09df.jpg</file>
+		<file id="id72">data/images/img-a43ee8349384d219bac7272c864382194aa0b68d.jpg</file>
+		<file id="id73">data/images/img-a5fd27a749650845b301adf0c7d00b18156d7557.jpg</file>
+		<file id="id74">data/images/img-a7d811775c07bf9efaf2c1d83cf4b634b2e2d574.jpg</file>
+		<file id="id75">data/images/img-ad2332efcc76e9daaab5e50eb9286920d575b8a8.jpg</file>
+		<file id="id76">data/images/img-ae2bda130f8e8e061df757144c46f58d409e4f0e.jpg</file>
+		<file id="id77">data/images/img-af16e864e64a30801833b731d5482a08eed6ec9b.jpg</file>
+		<file id="id78">data/images/img-b51053230ea549e31d8099fe93fc38a8a7e468ed.jpg</file>
+		<file id="id79">data/images/img-b89f940e04580ebe99ec73cad1b28516f09acf9d.jpg</file>
+		<file id="id80">data/images/img-c5b0c8b3f27a39f4f417d724ec999c5577196b9c.jpg</file>
+		<file id="id81">data/images/img-c99d730efa2ef8194269f5c790276d40a6054e4d.png</file>
+		<file id="id82">data/images/img-ccdeae0ed4176edb6a0cc23337454045ce2e1657.jpg</file>
+		<file id="id83">data/images/img-ce6a1b7a8041880d9b9f7fe2873b64dfc0adda83.jpg</file>
+		<file id="id84">data/images/img-cf59a97af2e04841e7fe7b33917e5b7ddc5e3825.jpg</file>
+		<file id="id85">data/images/img-d1316e5bddc6b4994fb4b0070b9e04078b37f04d.png</file>
+		<file id="id86">data/images/img-dc5b01377c5df68778fafd45c148e96f531d0a25.jpg</file>
+		<file id="id87">data/images/img-dc64fd1f0dcdcd8a9da82e19b88bd1c82e577769.jpg</file>
+		<file id="id88">data/images/img-ddccdf5400eb0cec2b99b4802415abeb238c1af7.jpg</file>
+		<file id="id89">data/images/img-e1c58eacab69b64ec72abc5425f50fe51b96b9b9.jpg</file>
+		<file id="id90">data/images/img-e7a610e3926b45ce905c1909e299e5204406883d.png</file>
+		<file id="id91">data/images/img-ec553a4624262a74e3723ecb97cb8e0c3e9ff782.jpg</file>
+		<file id="id92">data/images/img-f6cd5ec8d2a89765c12ec7a3364af5d9799fdf6c.jpg</file>
+		<file id="id93">data/images/img-f89d3e5280b57acc2e6340b15625d0e17a36d105.jpg</file>
+		<file id="id94">data/images/img-fab16613245e2b2684bbb791d201b32c4d833313.jpg</file>
+		<file id="id95">data/images/img-fb1c8e3959357b20e40181e265aabc52347bd14b.jpg</file>
+		<file id="id96">data/ismplayer/app_store2x.png</file>
+		<file id="id97">data/ismplayer/play.svg</file>
+		<file id="id98">data/ismplayer/preview.png</file>
+		<file id="id99">data/ismplayer/style.css</file>
+		<file id="id100">data/ismplayer/style_mini.css</file>
+		<file id="id101">data/player.js</file>
+		<file id="id102">index.html</file>
+		<file id="id103">ismplayer.html</file>
+		<file id="id104">preview.png</file>
 	</files>
 </presentation>
 
